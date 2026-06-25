@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.env
+music_model.h5
+notes.pkl
+generated/*.mid
